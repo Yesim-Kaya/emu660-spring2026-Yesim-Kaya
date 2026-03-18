@@ -7,3 +7,5 @@ Hello!! My name is Yesim Kaya.
 This is my personal webpage.
 
 Please stay tuned to follow my works on data analytics, blog posts, and more.
+
+![](assets/images/kedigif.gif){fig-align="center" width="300"}
