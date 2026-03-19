@@ -7,7 +7,7 @@ sidebar: false
 
 # Education
 
--   B.S., Industrial Engineering, Eskisehir Osmangazi University, Turkey, 2011 - 2017.
+-   B.S., Industrial Engineering, Eskisehir Osmangazi University, Turkey, 2011 - 2018.
 -   M.S., Industrial Engineering, Hacettepe University, Turkey, 2026 - ongoing.
 
 
@@ -23,5 +23,22 @@ sidebar: false
 2.  Ford Otosan, Intern in Production Planning, 2016
 
 3.  Bisteks Textil, Intern in Marketing Management, 2017
+
+
+# Competencies
+
+Minitab, R, Quarto, Git, Github
+
+# I Enjoy
+
+![Skiing](assets/images/kayakgif.gif){width="50"} Skiing
+
+![Tennis](assets/images/tenisgif.gif){width="50"} playing tennis 
+
+![Dancing](assets/images/dansgif.gif){width="50"} Dancing
+
+# Links
+
+[CV](assets/cv_dosyan.pdf)
 
 
