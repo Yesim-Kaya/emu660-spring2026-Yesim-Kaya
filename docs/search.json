@@ -96,9 +96,9 @@
   {
     "objectID": "posts.html",
     "href": "posts.html",
-    "title": "[Student xxxx]'s Analytics Lab",
+    "title": "[Yesim]'s Analytics Lab",
     "section": "",
-    "text": "Yesim title: “My Blog” sidebar: false —\nThis page is under construction.\n\n\n\n Back to top"
+    "text": "title: “My Blog”\n\n\nsidebar: false\n\n\n\nThis page is under construction.\n\n\n\n Back to top"
   },
   {
     "objectID": "docs/assignments/assignment-1.html",
@@ -133,5 +133,12 @@
     "title": "About Me",
     "section": "",
     "text": "}"
+  },
+  {
+    "objectID": "Untitled.html",
+    "href": "Untitled.html",
+    "title": "Untitled",
+    "section": "",
+    "text": "Back to top"
   }
 ]
