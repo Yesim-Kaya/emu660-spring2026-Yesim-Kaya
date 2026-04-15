@@ -5,7 +5,7 @@ sidebar: false
 
 ![](assets/images/yesimfoto.jpeg){fig-align="center" width="200"}
 
-# Education
+# Education 
 
 -   B.S., Industrial Engineering, Eskisehir Osmangazi University, Turkey, 2011 - 2018.
 -   M.S., Industrial Engineering, Hacettepe University, Turkey, 2026 - ongoing.
